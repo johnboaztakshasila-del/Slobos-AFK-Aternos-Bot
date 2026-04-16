@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "w_friends-FcWB.aternos.me
-",
+    "ip": "w_friends-FcWB.aternos.me",
+  
+
     "port": 41161,
     "version": "",
     "try-creative": false
